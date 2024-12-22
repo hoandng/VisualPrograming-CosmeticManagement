@@ -1,0 +1,25 @@
+
+# Thư mục build
+bin/
+obj/
+
+# Thư mục packages
+packages/
+
+# Visual Studio temporary files
+.vs/
+*.user
+*.suo
+*.userosscache
+*.sln.docstates
+
+# NuGet
+project.lock.json
+*.lock.json
+
+# Windows image file caches
+Thumbs.db
+ehthumbs.db
+
+# Folder config
+Properties/
